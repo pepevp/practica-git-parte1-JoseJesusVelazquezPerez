@@ -8,3 +8,4 @@ Mi nombre es pepe y este es el primer ejercio de la actividad evaluativa de GIT
 - Escuchar música
 - Videojuegos
 
+Mi pelicula favorita es "Interstellar"
