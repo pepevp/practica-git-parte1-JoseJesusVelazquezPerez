@@ -15,3 +15,4 @@
 - Estudiar para los examenes del viernes
 - Terminar introduccion del proyecto
 - Modificación 1
+- Modificación 2
