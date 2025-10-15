@@ -17,4 +17,8 @@
 - Modificación 1
 - Modificación 2
 
+<<<<<<< HEAD
 Linea para el conflicto
+=======
+Linea del conflicto
+>>>>>>> feature-conflicto
